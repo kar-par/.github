@@ -4,7 +4,6 @@
 - [ ] Linear issue id (PAR-#) is included in the pull request title
 - [ ] New code is formatted according to the [wiki](https://karauctionservices.visualstudio.com/PAR/_wiki/wikis/PAR.wiki/67202/Developer-Setup?anchor=ides)
 - [ ] Unit tests are added for new code
-- [ ] No [SonarLint](https://www.sonarsource.com/products/sonarlint/) warnings on new code
 - [ ] Does the code use a feature toggle? If so, add it in the description below
 
 # Description
